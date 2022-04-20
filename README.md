@@ -1,7 +1,5 @@
 # senai-versoes-colaboracoes
 
+<<<<<<< HEAD
 
 README de Exemplo
-
-
-Lembrando do comando: git commit
